@@ -4,7 +4,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/xampp/htdocs/LizBlog/model/database.php</file>
+            <file>file:/C:/xampp/htdocs/LizBlog/view/footer.php</file>
             <file>file:/C:/xampp/htdocs/LizBlog/index.php</file>
+            <file>file:/C:/xampp/htdocs/LizBlog/view/header.php</file>
             <file>file:/C:/xampp/htdocs/LizBlog/controller/create-db.php</file>
         </group>
     </open-files>
