@@ -5,9 +5,13 @@
         <group>
             <file>file:/C:/xampp/htdocs/LizBlog/model/database.php</file>
             <file>file:/C:/xampp/htdocs/LizBlog/view/footer.php</file>
+            <file>file:/C:/xampp/htdocs/LizBlog/model/config.php</file>
             <file>file:/C:/xampp/htdocs/LizBlog/index.php</file>
             <file>file:/C:/xampp/htdocs/LizBlog/view/header.php</file>
+            <file>file:/C:/xampp/htdocs/LizBlog/view/form.php</file>
             <file>file:/C:/xampp/htdocs/LizBlog/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/LizBlog/post.php</file>
+            <file>file:/C:/xampp/htdocs/LizBlog/view/navigation.php</file>
         </group>
     </open-files>
 </project-private>
